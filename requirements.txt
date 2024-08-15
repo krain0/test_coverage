@@ -1,6 +1,5 @@
 # Dependencies for this lab
 Flask
 Flask-SQLAlchemy
-pylint
 pytest
 pytest-cov
